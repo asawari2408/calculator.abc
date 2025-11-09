@@ -1,4 +1,4 @@
 # calculator.abc
-this is my simple calculator project.
-Author-Asawari birade
+This is my simple calculator project.
+Author-Asavari birade
 
