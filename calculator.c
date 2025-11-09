@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// Function declarations
 void addition();
 void subtraction();
 void multiplication();
@@ -13,9 +12,9 @@ int main() {
     int choice;
     char again;
 
-    printf("=====================================\n");
-    printf("        Simple Calculator v1.0       \n");
-    printf("=====================================\n");
+    printf("==\n");
+    printf("        Simple Calculator        \n");
+    printf("==\n");
 
     do {
         printf("\nSelect an operation:\n");
@@ -53,7 +52,6 @@ int main() {
     return 0;
 }
 
-// Function definitions
 void addition() {
     double a, b;
     printf("Enter two numbers: ");
